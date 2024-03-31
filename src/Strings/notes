@@ -1,0 +1,25 @@
+topics in string
+---------------------------
+
+string
+stringbuffer
+stringbuilder
+
+--string object creation - heap and scp
+
+ methods of string  class
+ - charAt()
+ - concat()
+ - equal()
+ - equalsingorecase()
+ - isempty()
+ - length()
+ - replace()
+ - substring()
+ - indexof()
+ - lastindexof()
+ - tolowercase()
+ - touppercase()
+ - trime()
+
+  
